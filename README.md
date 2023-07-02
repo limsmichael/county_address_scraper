@@ -1,4 +1,7 @@
 # Bald Head Island Address Scraper
+Make sure to check out the property analysis too!
+
+[Link to Analysis](./property_analysis/README.md)
 ## Goal:
 A company in Bald Head Island wanted to scrape mailing addresses from county records and match them to local parcels in order to send advertisements.  The goal was to determine the proper mailing address for each record in the County tax parcels and place them into an excel file with the following format
 
